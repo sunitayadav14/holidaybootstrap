@@ -1,0 +1,189 @@
+*{
+	
+	box-sizing:border-box;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.logo img{
+
+	
+}
+
+.cname{
+	font-family: 'RocknRoll One', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+	background-color:#0445b1c9;
+	height:150px;
+	text-align:center;
+	padding-top:40px;
+	font-size:55px;
+	color:white;
+	
+}
+
+
+
+.menu{
+	font-family: 'Ubuntu', sans-serif;
+	height:51px;
+	background-color:#36b2ea; 
+	margin-top:4px;
+	padding-top:16px;
+	text-align:center;
+	text-decoration:none;
+	    font-size: 20px;
+		background-image:liner-gradient(blue,yellow,pink );
+	
+}	
+
+.menu a{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+
+.menu a:hover{
+	background-color:#45D1F7 ;
+}
+
+.banner{
+	font-family: 'RocknRoll One', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+	height:550px;
+	/*background-image:url('banner.png');*/
+	background-image:url('../photo/balcony.jpg');
+	margin-top:10px;
+	background-attachment:fixed;
+	text-align:center;
+	font-size:60px;
+	padding-top:200px;
+	color:white;
+	font-weight:bold;
+background-repeat:no-repeat;
+	
+	width:900px;
+}
+	
+	
+}
+.banner_text{
+	font-size:70px;
+	text-align:left;
+}
+
+.section_banner{
+	height:60px;
+	background-color:#3582b5 ;
+	margin-top:15px;
+	padding-top:20px;
+	color:white;
+	font-weight:bold;
+	font-size:20px;
+	text-align:center;
+	box-shadow:5px 5px rgb(183, 200, 211);
+	font-family: 'Oswald', sans-serif;
+	background-image:liner-gradient(blue,yellow,pink );
+    margin-bottom:15px;
+	
+}
+
+.sec img{
+	height:300px;
+}
+
+.ab_content{
+	text-align:justify;
+	font-family: 'Ubuntu', sans-serif;
+	font-size:18px;
+}
+
+.project h2{
+	text-align:center;
+	
+}
+.project img{
+	box-shadow:2px 2px 2px  #72747D ;
+}
+
+.project p{
+	text-align:justify;
+	font-family: 'Oswald', sans-serif;
+	padding-right:18px;
+	
+}
+
+.project{
+	margin-top:20px;
+	transform:1s;
+	position:relative;
+	float:left;
+}
+.project:hover{
+	transform:scale(1.1);
+	
+}
+
+
+
+.add{
+	float:right;
+}
+
+.facts p{
+	margin:10px;
+	padding:10px;
+	font-size:20px;
+	font-weight:bold;
+	font-family: 'Oswald', sans-serif;
+	color:#7b7171;
+	text-shadow:5px;
+	
+}
+.footer{
+	height:350px;
+	width:350px;
+	background-color:#354084 ;
+	margin-top:4px;
+	padding-top:15px;
+	color:white;
+	font-weight:bold;
+	font-size:px;
+	text-align:center;
+	box-shadow:5px 5px rgb(183, 200, 211);
+font-family: 'Ubuntu', sans-serif;	
+    margin-bottom:8px;
+	
+}
+.foot:hover{
+	color:red;
+}
+
+.footer h4{
+	font-size:20px;
+	padding-bottom;10px;
+}
+.footer img{
+	margin-top:4px;
+	padding-top:10px;
+	border-radius:7px 4px;
+	
+
+}
+
+/*-------------------- ABOUT US----------------*/
+.agent{
+	
+	margin-top:8px;
+	text-align:justify;
+	height:50px;
+	background-color:grey;
+	
+
+	padding-top:16px;
+	text-align:center;
+	
+}	
+.work{
+	
+}
+

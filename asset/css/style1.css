@@ -1,0 +1,193 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color:white;
+	margin:0px;
+	/*background-image:url('../photos/cake.jpg');*/
+	
+
+
+}
+
+.facts{
+	padding-bottom:30px;
+	width:100%;
+	
+}
+
+.facts .count-box{
+		padding-bottom:30px;
+	
+	
+	width:100%;
+}
+.facts .count-box i{
+	
+	display:block;
+	font-size:44px;
+	color: #744DCD ;
+	float:left;
+}	
+
+
+.facts .count-box span{
+	font-size:48px;
+	line-height:40px;
+	display:block;
+	font-weight:700;
+	color:black;
+	margin-left:60px;
+	
+	
+}
+
+
+.facts .count-box p{
+	padding:15px 0 0 0;
+	margin:0 0 0 60px;
+	font-family:;
+	font-size:25px;
+	color : #BA0F7F ;
+	
+}
+	
+
+.facts .count-box a{
+	font-weight:600;
+	display:black;
+	margin-top:20px;
+	color:blue;
+	font-size:15px;
+	
+}
+
+
+/*-----------------FADE UP----------------------*/
+}
+body {
+    padding: 40px;
+}
+
+/* Animation */
+
+@keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+.animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-fill-mode: both
+}
+
+.animatedFadeInUp {
+    opacity: 0
+}
+
+.fadeInUp {
+    opacity: 0;
+    animation-name: fadeInUp;
+    -webkit-animation-name: fadeInUp;
+}
+
+
+/*-----------------FADE UP   END----------------------*/
+
+
+
+/*-----------------schedule start----------------------*/
+
+.talk img{
+	margin:5px 5px;
+	box-shadow:5px 5px 5px  #72747D ;
+}
+
+.talk img:hover{
+	transform:scale(1.1);
+	
+}
+	
+.talk .card-body {
+	color : #BA0F7F ;
+	text-align:justify;
+}
+
+.talk .card-body h5:hover{
+	
+	color : white ;
+}
+
+/*-----------------schedule   END----------------------*/
+
+/*-----------------ABOUT   START---------------------*/
+.photo img:hover{
+	transform:scale(1.1);
+	
+	
+}
+
+.about .about img:hover{
+	transform:scale(1.1);
+	box-shadow:5px 5px 5px  #72747D ;
+	
+}
+
+.title .title{
+	
+	box-shadow:5px 5px 5px  #72747D ;
+}
+/*-----------------ABOUT  END----------------------*/
+
+/*-----------------HOME START----------------------*/
+
+.card-speaker img :hover {
+transform:scale(1.1);
+	box-shadow:5px 5px 5px  #72747D ;
+	
+}
+
+.subscribe .visually-hidden{
+	text-align:center;
+	
+}
+
+.subscribe button:hover{
+	
+	background-color:red;
+}
+
+.subscribe {
+	box-shadow:5px 5px 5px  #72747D ;
+	
+}
+
+.title .title{
+	box-shadow:5px 5px 5px  #72747D ;
+	display:block;
+	
+}
+
+.title .title{
+/*-----------------HOME  END----------------------*/
+
+.contact .contact{
+	
+}

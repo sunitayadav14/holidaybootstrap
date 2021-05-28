@@ -1,0 +1,116 @@
+*{
+	
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+/*---------------------------------CONTACT US START---------------------------------*/
+
+.map h4{
+	padding-left:60px;
+	margin-top:10px;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-size:19px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #212F3D  ;
+	
+}
+.map h5{
+	
+	margin-top:10px;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-size:44px;
+	font-family: 'Ubuntu', sans-serif;
+	color:#172c4a ;
+	
+}
+
+
+.map p{
+	font-family: 'Ubuntu', sans-serif;
+	font-size:17px;
+	
+}
+
+
+.input-field{
+	font-family: 'Lora', serif;
+	font-family: 'Oswald', sans-serif;
+	display: block;
+	width:75%;
+	margin:4px auto;
+	padding:8px;
+	font-size:17px;
+	border:2px solid #7b7676e6;
+	
+}
+
+.input-field:hover{
+	border: 2px solid #D78F69 ;
+}
+
+.textarea-field {
+	font-family: 'Lora', serif;
+	font-family: 'Oswald', sans-serif;
+	display: block;
+	width:75%;
+	margin:4px auto;
+	padding-left:8px;
+	font-size:17px;
+	border:2px solid #7b7676e6;
+	
+	
+
+}
+
+.textarea-field:hover{
+	border: 2px solid #D78F69 ;
+}
+
+.btn-b{
+	font-family: 'Lora', serif;
+	font-family: 'Oswald', sans-serif;
+	margin :0px 9px;
+	background-color:red;
+    color:white;
+    border: 2px solid grey;
+    padding: 10px 30px;
+    border-radius: 2px;
+    font-size: 15px;
+	cursor:pointer;
+	padding-top:5px;
+	text-align:center;
+	
+}
+
+.btn:hover{
+	background-color:red;
+	
+}
+.contact-box btn{
+	display:block;
+	width:74%;
+    margin:auto;
+}
+
+.contact-box{
+	margin: 8px 33px;
+    padding:2px;
+    border: 2px solid white;
+    width:94%;
+    border-radius: 9px;
+	text-align:center;
+}
+.contact .card-body {
+	text-align:center;
+	display:inline;
+	float:center;
+}
+
+.head{
+	box-shadow:5px 5px 5px  #72747D ;
+}
+/*---------------------------------CONTACT US END---------------------------------*/
+
